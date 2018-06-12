@@ -1,0 +1,59 @@
+h3 {
+  width: 587px;
+  background-color: black;
+  color: gray;
+  font-family: helvetica;
+  font-size: 26px;
+  padding-left: 15px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin: 0;
+}
+
+h2 {
+  text-align: center;
+  font-family: helvetica;
+  margin-bottom: 0px;
+  color: gray;
+}
+
+mark {
+  background-color: inherit;
+  color: white;
+}
+
+b {
+  font-weight: normal;
+  color: #0000FF;
+}
+
+button {
+  width: 120px;
+  height: 30px;
+  margin: auto;
+  margin-top: 10px;
+}
+
+#stage {
+  width: 600px;
+  height: auto;
+  margin: auto;
+}
+
+#title {
+  width: 600px;
+  height: 30px;
+  border: 1px solid black;
+  margin: 0px;
+}
+
+#input {
+  width: 600px;
+  height: 20px;
+  border: 1px solid black;
+  font-family: courier;
+  font-size: 24px;
+  font-weight: bold;
+  color: #0000FF;
+  margin-top: 10px;
+}
