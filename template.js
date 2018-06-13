@@ -33,8 +33,5 @@ function updateQuestionList() {
 }
 
 function loadNextQuestion() {
-  $(document).ready(function () {  // load text file using jquery ajax
-    $("#question").load("test.html #question1");
-    // $("#question").load("file.txt"); // load text data
-  });
+  document.getElementById("question1").style.display = 'block';
 }

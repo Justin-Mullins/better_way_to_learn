@@ -1,0 +1,1 @@
+This is a online study tool. I'm specifically making it to study programming exercises, but it can be used for any kind of study. You put the questions you want to go over in the questions.html file, then you drill yourself over the material. Each question you get wrong, it will go back to automatically.
