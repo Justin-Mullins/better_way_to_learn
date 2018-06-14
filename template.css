@@ -29,6 +29,18 @@ b {
 }
 
 em {
+  font-style: normal;
+  font-weight: normal;
+  color: lightgreen;
+}
+
+strong {
+  font-style: normal;
+  font-weight: normal;
+  color: red;
+}
+
+code {
   font-family: monospace;
   font-size: 26px;
   font-style: normal;
